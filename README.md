@@ -12,3 +12,6 @@ REDACTIQ is a secure, AI-driven document redaction tool designed to automaticall
 - 🔐 Secure processing inside TEE (e.g., AWS Nitro Enclaves, Azure Confidential VMs)
 - 📤 Outputs redacted documents in original format
 - 📊 Dashboard for document management and audit logs
+
+
+This repository is a template for building AI-powered document redaction tools with TEE integration.
